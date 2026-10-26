@@ -1,0 +1,14 @@
+{
+  "project": "thales-of-miletus-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "BdxPH1jXeT3RuGTKYqkVGGkRdbM2w9kjaqR455djWebN",
+  "vault_account": "8reqX1eTCPd3be4jjfK8ZeAtBdou1yHTSJK7vyU1AVZc",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "5AeoHsfsnwP7niG5MQfcvrVSSxQPaVJMaaaMVisEaksnoYWT55Xco7UbobwJjwrKQ9ArBiaPzgfSoy8rjgTEMkYA",
+  "account_tx": "2aN2PpMSxbWMqyHdyF6195kmU3QhQ4EMQGS86qTRwg5ms4ErXj72fhCCtTyaYt9Dka9smqqdPL9T7aZP2dfCKkAw",
+  "mint_tx": "5HBGkYzcX6S3aggNTXTYdBJWXLJ6syK74LXjTGBfkjD6tUXSm5yfQ19btLMKfJKSXDPuuwiSmN5DkZiYvxpDYbEL",
+  "solana_explorer_mint": "https://explorer.solana.com/address/BdxPH1jXeT3RuGTKYqkVGGkRdbM2w9kjaqR455djWebN?cluster=devnet",
+  "timestamp": "2026-10-26 17:00:09 UTC"
+}
